@@ -1,5 +1,4 @@
-BINARY SEARCH 
-#include <iostream>
+ #include <iostream>
 using namespace std;
 
 int binarySearch(int a[], int n, int key) {
