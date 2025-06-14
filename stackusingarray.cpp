@@ -1,4 +1,4 @@
-stack implementation using array in C++
+Stack Implementation using Array in C++
 
 #include<iostream>
 using namespace std; 
