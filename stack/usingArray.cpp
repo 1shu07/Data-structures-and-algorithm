@@ -1,5 +1,3 @@
-Stack Implementation using Array in C++
-
 #include<iostream>
 using namespace std; 
 
